@@ -3,7 +3,8 @@ git config --global user.name "pritam auti"
 echo "# github-learning" >> README.md
 git init
 git add [filename] || -A
-git commit -m "first commit"
-git branch -M main
+git commit -m "msg"
 git remote add origin https://github.com/pritamauti/github-learning.git
-git push -u origin main
+git push origin master
+
+for user if we want to 
